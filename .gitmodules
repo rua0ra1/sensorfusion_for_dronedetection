@@ -1,0 +1,3 @@
+[submodule "Drone-detection-dataset"]
+	path = Drone-detection-dataset
+	url = https://github.com/DroneDetectionThesis/Drone-detection-dataset.git
