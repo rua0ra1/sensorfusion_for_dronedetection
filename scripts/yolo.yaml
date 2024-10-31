@@ -1,0 +1,11 @@
+# dataset.yaml
+
+train: dataset/images/train
+val: dataset/images/val
+
+# Number of classes
+nc: 1  # e.g., 1 if only "airplane"
+
+# Class names
+names:
+  0: AIRPLANE
